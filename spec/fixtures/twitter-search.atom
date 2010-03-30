@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/ruby</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=ruby" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=ruby" rel="self"/>
+  <title>ruby - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=ruby&amp;since_id=11328980687" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-03-30T21:16:12Z</updated>
+  <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=11328980687&amp;page=2&amp;q=ruby" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328980687</id>
+    <published>2010-03-30T21:16:12Z</published>
+    <link type="text/html" href="http://twitter.com/stray_and_ruby/statuses/11328980687" rel="alternate"/>
+    <title>@dgriffiths Come walk Ruby. It's only a 3 1/2 hour drive and she's feeling very hard done by today on account of the rain.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/dgriffiths&quot;&gt;@dgriffiths&lt;/a&gt; Come walk &lt;b&gt;Ruby&lt;/b&gt;. It&amp;apos;s only a 3 1/2 hour drive and she&amp;apos;s feeling very hard done by today on account of the rain.</content>
+    <updated>2010-03-30T21:16:12Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/697393292/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>stray_and_ruby (stray)</name>
+      <uri>http://twitter.com/stray_and_ruby</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328947457</id>
+    <published>2010-03-30T21:15:25Z</published>
+    <link type="text/html" href="http://twitter.com/wndxlori/statuses/11328947457" rel="alternate"/>
+    <title>Have you nominated your Ruby Hero yet?  I did! http://bit.ly/9QyOHG</title>
+    <content type="html">Have you nominated your &lt;b&gt;Ruby&lt;/b&gt; Hero yet?  I did! &lt;a href=&quot;http://bit.ly/9QyOHG&quot;&gt;http://bit.ly/9QyOHG&lt;/a&gt;</content>
+    <updated>2010-03-30T21:15:25Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/762131587/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>wndxlori (Lori Olson)</name>
+      <uri>http://twitter.com/wndxlori</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328942423</id>
+    <published>2010-03-30T21:15:18Z</published>
+    <link type="text/html" href="http://twitter.com/TWRailsJobs/statuses/11328942423" rel="alternate"/>
+    <title>Senior Software Engineer (Ruby on Rails) - LinkedIn -  Mountain View, CA http://bit.ly/cOKXMe</title>
+    <content type="html">Senior Software Engineer (&lt;b&gt;Ruby&lt;/b&gt; on Rails) - LinkedIn -  Mountain View, CA &lt;a href=&quot;http://bit.ly/cOKXMe&quot;&gt;http://bit.ly/cOKXMe&lt;/a&gt;</content>
+    <updated>2010-03-30T21:15:18Z</updated>
+    <link type="image/png" href="http://s.twimg.com/a/1269553143/images/default_profile_2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TWRailsJobs (TW Ruby on Rails Job)</name>
+      <uri>http://twitter.com/TWRailsJobs</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328938942</id>
+    <published>2010-03-30T21:15:13Z</published>
+    <link type="text/html" href="http://twitter.com/jMiguelArroyo/statuses/11328938942" rel="alternate"/>
+    <title>NFSCUC esta listo en C# y Java, vamos por Ruby ahora (Y muy pronto lo veran con GUI y todo)</title>
+    <content type="html">NFSCUC esta listo en C# y Java, vamos por &lt;b&gt;Ruby&lt;/b&gt; ahora (Y muy pronto lo veran con GUI y todo)</content>
+    <updated>2010-03-30T21:15:13Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/704740183/Clipboard03_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>jMiguelArroyo (Miguel Arroyo)</name>
+      <uri>http://twitter.com/jMiguelArroyo</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328923905</id>
+    <published>2010-03-30T21:14:53Z</published>
+    <link type="text/html" href="http://twitter.com/raleightechjobs/statuses/11328923905" rel="alternate"/>
+    <title>Hiring: Core Java/Ruby on Rails Developer, Consulting Role (Raleigh, NC): Newly Created Role with a Unique, Techno... http://bit.ly/bC6oT7</title>
+    <content type="html">Hiring: Core Java/&lt;b&gt;Ruby&lt;/b&gt; on Rails Developer, Consulting Role (Raleigh, NC): Newly Created Role with a Unique, Techno... &lt;a href=&quot;http://bit.ly/bC6oT7&quot;&gt;http://bit.ly/bC6oT7&lt;/a&gt;</content>
+    <updated>2010-03-30T21:14:53Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/642405590/Penguins_small_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>raleightechjobs (raleigh tech jobs)</name>
+      <uri>http://twitter.com/raleightechjobs</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328891668</id>
+    <published>2010-03-30T21:14:07Z</published>
+    <link type="text/html" href="http://twitter.com/so_white/statuses/11328891668" rel="alternate"/>
+    <title>http://tinyurl.com/ybpa9or 
+Ruby Best Practices - Full Book Now Available For Free!</title>
+    <content type="html">&lt;a href=&quot;http://tinyurl.com/ybpa9or&quot;&gt;http://tinyurl.com/ybpa9or&lt;/a&gt; 
+&lt;b&gt;Ruby&lt;/b&gt; Best Practices - Full Book Now Available For Free!</content>
+    <updated>2010-03-30T21:14:07Z</updated>
+    <link type="image/png" href="http://s.twimg.com/a/1269976216/images/default_profile_2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>so_white (so_white)</name>
+      <uri>http://twitter.com/so_white</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328871935</id>
+    <published>2010-03-30T21:13:38Z</published>
+    <link type="text/html" href="http://twitter.com/JulieG/statuses/11328871935" rel="alternate"/>
+    <title>@ruby  @jacksonfox the crepe maker at the creperie I ate at last night also asked me if my Kindle was an iPad. He was disappointed.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/ruby&quot;&gt;@&lt;b&gt;ruby&lt;/b&gt;&lt;/a&gt;  &lt;a href=&quot;http://twitter.com/jacksonfox&quot;&gt;@jacksonfox&lt;/a&gt; the crepe maker at the creperie I ate at last night also asked me if my Kindle was an iPad. He was disappointed.</content>
+    <updated>2010-03-30T21:13:38Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/551930089/Mount_Vernon_2_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>JulieG (Julie Germany)</name>
+      <uri>http://twitter.com/JulieG</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328854915</id>
+    <published>2010-03-30T21:13:14Z</published>
+    <link type="text/html" href="http://twitter.com/rosewillscharms/statuses/11328854915" rel="alternate"/>
+    <title>Ruby Isis, Egyptian Goddess Necklace - &#163;7 in the sale @RosewillsCharms http://bit.ly/amQyM2</title>
+    <content type="html">&lt;b&gt;Ruby&lt;/b&gt; Isis, Egyptian Goddess Necklace - &#163;7 in the sale &lt;a href=&quot;http://twitter.com/RosewillsCharms&quot;&gt;@RosewillsCharms&lt;/a&gt; &lt;a href=&quot;http://bit.ly/amQyM2&quot;&gt;http://bit.ly/amQyM2&lt;/a&gt;</content>
+    <updated>2010-03-30T21:13:14Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/734603332/spain.028_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>rosewillscharms (Dawn McLean)</name>
+      <uri>http://twitter.com/rosewillscharms</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328818916</id>
+    <published>2010-03-30T21:12:21Z</published>
+    <link type="text/html" href="http://twitter.com/carolasar/statuses/11328818916" rel="alternate"/>
+    <title>RT @RohanRayJewelry: This marvelous Ruby set could be yours, simply RT and follow! http://twitpic.com/1c0ejx #RohanRayJewelry</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/RohanRayJewelry&quot;&gt;@RohanRayJewelry&lt;/a&gt;: This marvelous &lt;b&gt;Ruby&lt;/b&gt; set could be yours, simply RT and follow! &lt;a href=&quot;http://twitpic.com/1c0ejx&quot;&gt;http://twitpic.com/1c0ejx&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23RohanRayJewelry&quot;&gt;#RohanRayJewelry&lt;/a&gt;</content>
+    <updated>2010-03-30T21:12:21Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/487991020/pics_9907_018_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>carolasar (carol sardella)</name>
+      <uri>http://twitter.com/carolasar</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328817229</id>
+    <published>2010-03-30T21:12:19Z</published>
+    <link type="text/html" href="http://twitter.com/johanoomen/statuses/11328817229" rel="alternate"/>
+    <title>BBC R&amp;D blog: The Mythology Engine - representing stories on the web http://bit.ly/9MUsXr (via @lottebelice) #ruby #narratives</title>
+    <content type="html">BBC R&amp;amp;D blog: The Mythology Engine - representing stories on the web &lt;a href=&quot;http://bit.ly/9MUsXr&quot;&gt;http://bit.ly/9MUsXr&lt;/a&gt; (via &lt;a href=&quot;http://twitter.com/lottebelice&quot;&gt;@lottebelice&lt;/a&gt;) &lt;a href=&quot;http://search.twitter.com/search?q=%23ruby&quot;&gt;#&lt;b&gt;ruby&lt;/b&gt;&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23narratives&quot;&gt;#narratives&lt;/a&gt;</content>
+    <updated>2010-03-30T21:12:19Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/524456422/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>johanoomen (johanoomen)</name>
+      <uri>http://twitter.com/johanoomen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328794617</id>
+    <published>2010-03-30T21:11:47Z</published>
+    <link type="text/html" href="http://twitter.com/rosewillscharms/statuses/11328794617" rel="alternate"/>
+    <title>@arlenephillips I've seen some gorgeous sparkley red shoes (Ruby slippers). /Might treat myself for being a good girl after my operation :)</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/arlenephillips&quot;&gt;@arlenephillips&lt;/a&gt; I&amp;apos;ve seen some gorgeous sparkley red shoes (&lt;b&gt;Ruby&lt;/b&gt; slippers). /Might treat myself for being a good girl after my operation :)</content>
+    <updated>2010-03-30T21:11:47Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/734603332/spain.028_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>rosewillscharms (Dawn McLean)</name>
+      <uri>http://twitter.com/rosewillscharms</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328792963</id>
+    <published>2010-03-30T21:11:44Z</published>
+    <link type="text/html" href="http://twitter.com/ruby/statuses/11328792963" rel="alternate"/>
+    <title>Ppl often ask if my Pre is an iPhone! RT @jacksonfox: Guy at coffee shop just asked a woman if her Kindle was an iPad (Apple: 1, Amazon: 0)</title>
+    <content type="html">Ppl often ask if my Pre is an iPhone! RT &lt;a href=&quot;http://twitter.com/jacksonfox&quot;&gt;@jacksonfox&lt;/a&gt;: Guy at coffee shop just asked a woman if her Kindle was an iPad (Apple: 1, Amazon: 0)</content>
+    <updated>2010-03-30T21:11:44Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/757354647/ruby_izzy_sxsw_better_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://pivotallabs.com/landing/tweed&quot; rel=&quot;nofollow&quot;&gt;Tweed&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>ruby (Ruby Sinreich)</name>
+      <uri>http://twitter.com/ruby</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328784319</id>
+    <published>2010-03-30T21:11:32Z</published>
+    <link type="text/html" href="http://twitter.com/prmitteilungen/statuses/11328784319" rel="alternate"/>
+    <title>Kostenlos Spielen RUBY ROYAL Brettspiel kostenlos online spielen Gratisspiele: Klicke die Steine mit der gleichen ...  www.endlosspielen.de</title>
+    <content type="html">Kostenlos Spielen &lt;b&gt;RUBY&lt;/b&gt; ROYAL Brettspiel kostenlos online spielen Gratisspiele: Klicke die Steine mit der gleichen ...  &lt;a href=&quot;http://www.endlosspielen.de&quot;&gt;www.endlosspielen.de&lt;/a&gt;</content>
+    <updated>2010-03-30T21:11:32Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/391095978/cartoon-pics-529_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</twitter:source>
+    <twitter:lang>de</twitter:lang>
+    <author>
+      <name>prmitteilungen (PRMITTEILUNG.DE)</name>
+      <uri>http://twitter.com/prmitteilungen</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328743160</id>
+    <published>2010-03-30T21:10:32Z</published>
+    <link type="text/html" href="http://twitter.com/My3Sons33/statuses/11328743160" rel="alternate"/>
+    <title>Giveaway ends 4/2, 3 pm PST.This marvelous ruby set could be yours! http://twitpic.com/1c0ejx RT &amp; Follow @RohanRayJewelry! #RohanRayJewelry</title>
+    <content type="html">Giveaway ends 4/2, 3 pm PST.This marvelous &lt;b&gt;ruby&lt;/b&gt; set could be yours! &lt;a href=&quot;http://twitpic.com/1c0ejx&quot;&gt;http://twitpic.com/1c0ejx&lt;/a&gt; RT &amp;amp; Follow &lt;a href=&quot;http://twitter.com/RohanRayJewelry&quot;&gt;@RohanRayJewelry&lt;/a&gt;! &lt;a href=&quot;http://search.twitter.com/search?q=%23RohanRayJewelry&quot;&gt;#RohanRayJewelry&lt;/a&gt;</content>
+    <updated>2010-03-30T21:10:32Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/732483851/253_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>My3Sons33 (Lisa C)</name>
+      <uri>http://twitter.com/My3Sons33</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:11328732728</id>
+    <published>2010-03-30T21:10:17Z</published>
+    <link type="text/html" href="http://twitter.com/TWRailsJobs/statuses/11328732728" rel="alternate"/>
+    <title>Site Operations Engineer (Ruby on Rails) - LinkedIn -  Mountain View, CA http://bit.ly/dzbMYy</title>
+    <content type="html">Site Operations Engineer (&lt;b&gt;Ruby&lt;/b&gt; on Rails) - LinkedIn -  Mountain View, CA &lt;a href=&quot;http://bit.ly/dzbMYy&quot;&gt;http://bit.ly/dzbMYy&lt;/a&gt;</content>
+    <updated>2010-03-30T21:10:17Z</updated>
+    <link type="image/png" href="http://s.twimg.com/a/1269553143/images/default_profile_2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href=&quot;http://apiwiki.twitter.com/&quot; rel=&quot;nofollow&quot;&gt;API&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>TWRailsJobs (TW Ruby on Rails Job)</name>
+      <uri>http://twitter.com/TWRailsJobs</uri>
+    </author>
+  </entry>
+</feed>
