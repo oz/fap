@@ -35,7 +35,7 @@ module FAP
           opts = {}
           opts.merge!(:type => args.shift) if args[0].class == String
           opts.merge!(*args) unless args.empty?
-          property = ::FAP::Property.new name, opts
+          property = FAP::Property.new name, opts
           self.properties << property
           define_property_getter property
         end

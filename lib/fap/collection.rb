@@ -7,7 +7,7 @@ module FAP
       @fetched = false
       @node = node
       @relation = relation
-      @klass = ::FAP.constantize relation.klass
+      @klass = FAP.constantize relation.klass
     end
 
     def each

@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
 module FAP
-  class FAP
+  class Paw
 
     def self.inherited subclass
-      subclass.send :include, ::FAP::Mixins::Properties
-      subclass.send :include, ::FAP::Mixins::Relations
+      subclass.send :include, FAP::Mixins::Properties
+      subclass.send :include, FAP::Mixins::Relations
       subclass.class_eval <<-EOS, __FILE__, __LINE__ + 1
         def self.inherited subclass
           super
@@ -27,7 +27,7 @@ module FAP
     # @see FAP::Collection
     # @param [FAP::Relation] Object relation
     # @param [Nokogiri::XML::Element] starting node
-    # @retun [FAP::FAP]
+    # @retun [FAP::Paw]
     def from_relation relation, node
       relation.from.class
       owners = self.relations.select { |rel| rel.type == :belongs_to && rel.klass == relation.from.class.to_s }

@@ -6,7 +6,7 @@ require 'nokogiri'
 module FAP
   VERSION = '0.0.2'
 
-  autoload :FAP,        'fap/fap'
+  autoload :Paw,        'fap/paw'
   autoload :Property,   'fap/property'
   autoload :Relation,   'fap/relation'
   autoload :Mixins,     'fap/mixins'

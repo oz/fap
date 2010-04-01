@@ -17,7 +17,7 @@ module FAP
       # Load a relation by its nane
       #
       # @return [FAP::Collection] for "has_many" relations
-      # @return [FAP::FAP]        "father" object for "belongs_to" relations
+      # @return [FAP::Paw]        "father" object for "belongs_to" relations
       def _load_relation name
         relation = self.relations.select { |rel| rel.name == name }.first
         if relation.type == :has_many
@@ -31,7 +31,7 @@ module FAP
 
       def _load_has_many relation
         relation.from = self
-        ::FAP::Collection.new relation, @_node
+        FAP::Collection.new relation, @_node
       end
 
       def _load_belongs_to relation
@@ -45,7 +45,7 @@ module FAP
         #
         def has_many name, opts={}
           opts.merge! :type => :has_many, :from => self
-          relation = ::FAP::Relation.new name, opts
+          relation = FAP::Relation.new name, opts
           self.relations << relation
           define_relation_getter relation
         end
@@ -55,7 +55,7 @@ module FAP
         #
         def belongs_to name, opts={}
           opts.merge! :type => :belongs_to, :from => self
-          relation = ::FAP::Relation.new name, opts
+          relation = FAP::Relation.new name, opts
           self.relations << relation
           define_relation_getter relation
         end

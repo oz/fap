@@ -26,7 +26,7 @@ module FAP
       when 'String'
         what.to_s
       else
-        ::FAP.constantize(@type).new(what)
+        FAP.constantize(@type).new(what)
       end
     end
   end

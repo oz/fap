@@ -2,7 +2,7 @@ require File.dirname(__FILE__) + '/spec_helper.rb'
 
 describe "a very light FAP" do
   before :all do
-    class Foo < FAP::FAP ; end
+    class Foo < FAP::Paw ; end
   end
   
   it "should define #properties #accessor" do
@@ -18,7 +18,7 @@ end
 
 describe "a very light FAP with properties" do
   before :all do
-    class Foo < FAP::FAP
+    class Foo < FAP::Paw
       property :str_name
       property :str_prop, 'String'
       property :xpath_prop, 'Fixnum', :xpath => '//foobar'
@@ -60,11 +60,11 @@ end
 
 describe "a FAP with some relations" do
   before :all do
-    class Foo < FAP::FAP
+    class Foo < FAP::Paw
       has_many :bars, :class => 'Bar', :xpath => '//foo/bars'
     end
 
-    class Bar < FAP::FAP
+    class Bar < FAP::Paw
       belongs_to :foo, :class => 'Foo'
     end
   end
@@ -89,7 +89,7 @@ end
 
 describe "a simple FAP to read a stream" do
   before :all do
-    class Foo < FAP::FAP ; end
+    class Foo < FAP::Paw ; end
   end
 
   it "should load a File object" do
@@ -100,7 +100,7 @@ end
 describe "a simple FAP to parse an atom feed" do
   before :all do
     # Define a simple Atom parser for twitter searches.
-    class Atom < FAP::FAP
+    class Atom < FAP::Paw
       string :title,   :xpath => '//feed/title'
       uri    :url,     :xpath => '//feed/link[@rel="self"]', :get => :href
       date   :updated, :xpath => '//feed/updated'
@@ -108,7 +108,7 @@ describe "a simple FAP to parse an atom feed" do
       has_many :articles, :class => 'Article', :xpath => '//feed/entry'
     end
 
-    class Article < FAP::FAP
+    class Article < FAP::Paw
       string :title
       uri    :url, :xpath => 'link[@rel="alternate"]', :get => :href
       string :content
