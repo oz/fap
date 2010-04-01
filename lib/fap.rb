@@ -4,7 +4,7 @@ $:.unshift(File.dirname(__FILE__)) unless
 require 'nokogiri'
 
 module FAP
-  VERSION = '0.0.2'
+  VERSION = '0.0.3'
 
   autoload :Paw,        'fap/paw'
   autoload :Property,   'fap/property'

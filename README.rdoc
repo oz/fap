@@ -18,7 +18,7 @@ acronym. :)
 
 == SYNOPSIS:
 
-    class Atom < FAP::FAP
+    class Atom < FAP::Paw
       string :title,   :xpath => '//feed/title'
       uri    :url,     :xpath => '//feed/link[@rel="self"]', :get => :href
       date   :updated, :xpath => '//feed/updated'
@@ -26,7 +26,7 @@ acronym. :)
       has_many :articles, :class => 'Article', :xpath => '//feed/entry'
     end
 
-    class Article < FAP::FAP
+    class Article < FAP::Paw
       string :title # It is assumed here, that you want a string mapped on a <title> element
       uri    :url, :xpath => 'link[@rel="alternate"]', :get => :href    # Fetch the :href attribute
       string :content

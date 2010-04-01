@@ -6,7 +6,7 @@ lib/fap.rb
 lib/fap/relation.rb
 lib/fap/support
 lib/fap/support/class.rb
-lib/fap/fap.rb
+lib/fap/paw.rb
 lib/fap/mixins
 lib/fap/mixins/properties.rb
 lib/fap/mixins/relations.rb
